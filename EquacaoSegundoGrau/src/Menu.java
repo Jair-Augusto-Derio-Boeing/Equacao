@@ -5,6 +5,7 @@ public class Menu {
 		Scanner t = new Scanner(System.in);
 		while (true) {
 			System.out.println("    ");
+			System.out.print("jair lindo");
 
 			System.out.println("       Menu de opções");
 
